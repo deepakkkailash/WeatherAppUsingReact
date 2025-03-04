@@ -2,7 +2,7 @@ import ListOfToolBarStuff from './ListOfToolBarStuff'
 
 const ToolBar = ()=>{
     return (
-    <div className='rounded-lg  m-[10px] w-[4vw] h-[95vh] bg-gradient-to-b from-[#6f6d6d] to-[#0e3f82] p-[10px]'>
+    <div className='rounded-lg  m-[10px] w-[4vw] h-[95vh] gradientbackground p-[10px]'>
             <ListOfToolBarStuff />
     </div>
 

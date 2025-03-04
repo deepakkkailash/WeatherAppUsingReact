@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+
+.gradientbackground{
+   @apply bg-gradient-to-b from-[#6f6d6d] to-[#367588]
+}
+
