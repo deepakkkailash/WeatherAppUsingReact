@@ -5,6 +5,5 @@ const settings = new URL('./assets/settings.png', import.meta.url).href;
 
 const ListOfIcons = [calendar, dashboard, location, settings];
 
-console.log(ListOfIcons);
 
 export default ListOfIcons;
